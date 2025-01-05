@@ -1,6 +1,0 @@
-Christopher,
-
-Once you add all your images to this directory, you can delete this file. 
-If you delete file without adding anything to this directory, github automatically deletes the directory as well.
-
-- Chris Mateo
